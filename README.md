@@ -28,7 +28,7 @@
 - 💬 **Ask me about:**  
   Building dynamic and interactive user interfaces with [React](https://reactjs.org/)  
   Developing RESTful APIs with [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)  
-  Leveraging [Entity Framework](https://docs.microsoft.com/en-us/ef/) for efficient data management
+
 
 - 📫 **How to reach me:**  
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osaid-hamayel-557a24223/) 
