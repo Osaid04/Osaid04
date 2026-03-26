@@ -30,7 +30,11 @@
   Building REST APIs with Spring Boot  
 
 - 📫 **How to reach me:**  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osaid-hamayel-557a24223/) 
+<p align="left">
+  <a href="https://www.linkedin.com/in/osaid-ghassan-a77b72355" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Osaid%20Hamayel-007ACC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:osaidhamayel04@gmail.com)
 
 - ⚡ **Fun fact:**  
@@ -45,7 +49,7 @@
   <img src="https://img.shields.io/badge/-Spring%20Boot-007ACC?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/-OOP-007ACC?style=flat-square" alt="OOP"/>
   <img src="https://img.shields.io/badge/-Data%20Structures-007ACC?style=flat-square" alt="Data Structures"/>
-  <img src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=mysql&logoColor=white" alt="PostegreSQL"/>
   <img src="https://img.shields.io/badge/-REST%20API-007ACC?style=flat-square" alt="REST API"/>
   <img src="https://img.shields.io/badge/-Git-007ACC?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-Postman-007ACC?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
