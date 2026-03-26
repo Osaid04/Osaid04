@@ -30,11 +30,7 @@
   Building REST APIs with Spring Boot  
 
 - 📫 **How to reach me:**  
-<p align="left">
-  <a href="https://www.linkedin.com/in/osaid-ghassan-a77b72355" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Osaid%20Hamayel-007ACC?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+  [LinkedIn Profile](https://www.linkedin.com/in/osaid-ghassan-a77b72355)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:osaidhamayel04@gmail.com)
 
 - ⚡ **Fun fact:**  
