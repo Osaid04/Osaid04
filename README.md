@@ -3,57 +3,52 @@
 
 ## Hi there 👋, I'm Osaid Hamayel
 
-### 💻 Full-Stack Developer | Front-End Developer
+### 💻 Backend Developer | Java & Spring Boot
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Osaid04&color=007ACC&style=flat-square)
 
 - 🔭 **I’m currently working on:**  
-  Building scalable web applications using [React.js](https://reactjs.org/) and [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)  
-  Creating modern, responsive, and user-friendly interfaces
+  Building scalable backend applications using Java and Spring Boot  
+  Designing RESTful APIs and handling database integration  
 
 - 🌱 **I’m currently learning:**  
-  Advanced C# features and performance optimization techniques  
-  Exploring the latest in .NET and cloud-based solutions
+  Advanced data structures and algorithms  
+  Spring Boot best practices and system design concepts  
 
 - 👯 **I’m looking to collaborate on:**  
-  Full-stack projects that require a mix of frontend and backend skills  
-  Innovative .NET solutions with a focus on microservices architecture
+  Backend projects using Java & Spring Boot  
+  API development and scalable system design  
 
 - 🤔 **I’m looking for help with:**  
-  Best practices for integrating React with .NET backend  
-  Mentorship on architecting enterprise-level applications
+  Improving system design skills  
+  Writing clean, maintainable, and optimized backend code  
 
 - 💬 **Ask me about:**  
-  Building dynamic and interactive user interfaces with [React](https://reactjs.org/)  
-  Developing RESTful APIs with [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)  
-
+  Java, OOP, and Data Structures  
+  Building REST APIs with Spring Boot  
 
 - 📫 **How to reach me:**  
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osaid-hamayel-557a24223/) 
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:osaidhamayel04@gmail.com)
 
-- 😄 **Pronouns:**  
-  He/Him | She/Her | They/Them
-
 - ⚡ **Fun fact:**  
-  I'm passionate about blending design and development to create seamless user experiences. When I’m not coding, you’ll find me experimenting with new recipes or exploring the latest tech trends.
+  I enjoy solving complex problems and improving my problem-solving skills through coding challenges and algorithm practice.
 
 ---
 
 ### 🚀 **Tech Stack:**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-007ACC?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-.NET-007ACC?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-007ACC?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/-OOP-007ACC?style=flat-square" alt="OOP"/>
+  <img src="https://img.shields.io/badge/-Data%20Structures-007ACC?style=flat-square" alt="Data Structures"/>
   <img src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/-REST%20API-007ACC?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/-Git-007ACC?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-Postman-007ACC?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 ---
